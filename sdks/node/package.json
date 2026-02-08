@@ -1,0 +1,32 @@
+{
+  "name": "tokenmeter",
+  "version": "0.1.0",
+  "description": "LLM API cost tracker and smart router — drop-in OpenAI replacement for Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["llm", "openai", "cost-tracking", "api-proxy", "smart-routing", "ai"],
+  "author": "TokenMeter <hello@tokenmeter.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokenmeter/tokenmeter"
+  },
+  "homepage": "https://tokenmeter.dev",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^22.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.0",
+    "typescript": "^5.7.0"
+  }
+}
