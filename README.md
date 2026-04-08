@@ -331,3 +331,16 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
 [Get Started](https://docs.tokenmeter.dev) | [View Dashboard Demo](https://demo.tokenmeter.dev) | [Star on GitHub](https://github.com/tokenmeter/tokenmeter)
 
 </div>
+
+## Connect & Follow
+
+If you find this project useful, consider:
+
+- ⭐ **Starring** this repo to help others discover it
+- 🐛 **Opening issues** for bugs or feature requests
+- 🤝 **Contributing** — see [CONTRIBUTING.md](CONTRIBUTING.md)
+- 📝 [Read the blog post](https://medium.com/@nirbhaysingh1/our-ai-bill-was-4-800-last-month-nobody-knew-why-so-i-built-an-open-source-llm-cost-tracker-018cdbdf9a6b)
+- 💼 **LinkedIn**: [Nirbhay Singh](https://www.linkedin.com/in/nirbhaysingh1/)
+- 🐙 **GitHub**: [@nirbhays](https://github.com/nirbhays)
+
+Built with ❤️ by [Nirbhay Singh](https://cloudtoai.in) — Cloud & AI Architect
